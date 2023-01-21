@@ -230,12 +230,13 @@ ion-icon {
 
 /* text and headings */
 h1 {
-  font-size: 3rem;
+  font-size: 3.9rem;
   /* font-family: "Monoton", cursive; */
   text-transform: uppercase;
   color: white;
-  /* text-align: center; */
+  text-align: center;
 }
+
 h2 {
   font-size: 3.5rem;
 }
